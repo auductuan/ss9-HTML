@@ -1,0 +1,16 @@
+
+.all:hover{
+    width:350px;
+    justify-content: center;
+    padding: 70px 70px;
+}
+
+.all{
+    display: flex;
+    background-color: gray;
+    color: #fff;
+    position: all 3s;
+    justify-content: center;
+    padding: 50px 50px;
+    width: 200px;
+}

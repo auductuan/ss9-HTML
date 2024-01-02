@@ -1,0 +1,13 @@
+.b{
+    width: 300px;
+    height: 200px;
+    background-color: gray;
+    text-align: center;
+    line-height: 200px;
+    transition: all 1s;
+}
+
+.b:hover{
+    transform: rotate(-37deg);
+
+}

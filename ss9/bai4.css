@@ -1,0 +1,11 @@
+.abc{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(222, 219, 219);
+    text-align: center;
+    line-height: 200px;
+}
+
+.abc:hover{
+    background-color: gray;
+}
